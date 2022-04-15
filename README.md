@@ -5,9 +5,9 @@
 ## Authors:
 
 **Group 31**
-- Loh Hong Tak Edmund (A0199943H)
-- Tan Yi Bing (A0204181U)
-- Yap Hui Yi (A0203707M)
+- Loh Hong Tak Edmund 
+- Tan Yi Bing
+- Yap Hui Yi
 
 ## Table of Contents
 1. [Authors](#authors)
